@@ -1,0 +1,70 @@
+.jumbotron {
+  padding-top: 9rem;
+  background-color: #13cd94;
+}
+.jumbotron h1 {
+  color: white;
+}
+
+.jumbotron p {
+  color: white;
+}
+
+.skills {
+  min-height: 30vh;
+}
+
+.skills .container h1 {
+  color: #120f30;
+}
+
+.skills .row .col p {
+  font-size: 12px;
+}
+
+.skills .row .col i {
+  color: #312e6a;
+  font-size: 46px;
+  margin-bottom: 15px;
+}
+
+.about h1 {
+  color: #120f30;
+}
+
+.about {
+  padding-top: 15rem;
+}
+
+.contact {
+  padding-top: 15rem;
+}
+
+.contact h1 {
+  color: #120f30;
+}
+
+.footer {
+  min-height: 50vh;
+  background-color: #162d48;
+}
+
+.footer .row .col a {
+  color: white;
+}
+
+.footer .row .col h3 {
+  color: white;
+}
+
+.footer .row .col p {
+  color: white;
+}
+
+.footer .row .col h5 {
+  color: white;
+}
+
+.footer .row .col a:hover {
+  color: #1bbbed;
+}
